@@ -1,0 +1,26 @@
+#intro {
+    background-color: black;
+    color:white;
+    text-align: justify;
+    text-justify: inter-word;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#subcribe-email {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+#email {
+    width: 80%;
+    float: left;
+}
+
+#btn-subcribe {
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+}

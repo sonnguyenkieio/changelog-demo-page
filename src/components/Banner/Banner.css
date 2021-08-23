@@ -1,0 +1,21 @@
+#banner {
+    background-color: darkblue;
+    padding: 20px
+}
+
+#banner p {
+    color: white;
+    font-weight: bold;
+}
+
+#banner button {
+    margin-bottom: 10px;
+    background-color: white;
+    color: darkblue;
+    font-weight: bold;
+    border-color: darkblue;
+}
+
+#banner button:hover {
+    background-color: cadetblue;
+}

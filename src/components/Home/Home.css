@@ -1,0 +1,24 @@
+.home a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#home-left li:hover {
+    background-color: paleturquoise;
+    cursor: pointer;
+}
+
+#content-section {
+    height: 480px;
+    text-align: justify;
+    overflow-y: scroll;
+}
+
+#home-right{
+    font-weight: 900;
+}
+
+#content-section h4 {
+    color: darkblue;
+}

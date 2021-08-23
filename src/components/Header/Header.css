@@ -1,0 +1,19 @@
+nav a {
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+#navbarSupportedContent {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+#language-select {
+    margin-top: 8px;
+}
+
+#logo {
+    width: 60px;
+    height: 50px;
+}
